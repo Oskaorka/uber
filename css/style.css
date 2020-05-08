@@ -151,6 +151,8 @@ nav {
   text-transform: uppercase;
   text-align: center; }
   .about_car {
+    position: relative;
+    top: 20px;
     color: #070716;
     font-weight: 400;
     background-color: #ffffff; }
